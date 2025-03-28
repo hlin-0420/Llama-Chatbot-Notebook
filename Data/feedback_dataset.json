@@ -222,5 +222,12 @@
         "response": "You cannot add more than 20000 modifiers per plot because of the limit on the number of layouts per ODF file. The maximum number of layouts allowed is 100 tables in a log.",
         "feedback": "The number of modifier limit per plot is clearly 20000 not 100! Your answer is incorrect.",
         "rating-score": "1"
+    },
+    {   
+        "model-name": "gemma 3:4b",
+        "question": "What is the maximum number of curves I can load in a data file?",
+        "response": "The maximum number of columns that can be loaded in a data file is unlimited.",
+        "feedback": "The maximum number of curves is 450.",
+        "rating-score": "1"
     }
 ]
