@@ -1,2 +1,5 @@
 embeddings
 local_models
+venv
+api_key.txt
+embeddings.npy
